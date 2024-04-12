@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App treino</string>
+    <string name="novo_texto">Novo Texto</string>
+    <string name="seu_nome">Qual seu vulgo?</string>
+    <string name="usuario">Elemento</string>
+    <string name="frases">frase</string>
+    <string name="salvo">salvê</string>
+    <string name="vamos_iniciar">Bora?</string>
+    <string name="todas_frase">as frase</string>
+    <string name="frases_de_motivacao">frase motiva</string>
+    <string name="frases_da_manha">frase do amanhã</string>
+    <string name="nome_mandatario">Nome mandante</string>
+    <string name="texto_widge">Appduo</string>
+    <string name="widgets">Appduo</string>
+    <string name="description">Descrição</string>
+</resources>
